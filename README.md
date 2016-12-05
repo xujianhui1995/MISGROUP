@@ -1,7 +1,9 @@
-#1绪论
+#1 1.绪论
 ##1.1 系统开发背景
 <span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.1企业的现状</span><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">对好运来超市销售而言，现在正处于高速发展期，公司网站和信息系统的建设刻不容缓。在互联网时代，无论企业和个人都必须适应信息化发展的大趋势。超市在实体经济日益受到冲击的当前，销售量和销售利润的提升不能再仅仅局限在线下。在市场竞争日益激烈的当下，开发出一个能在线上销售商品的平台是十分必要和紧迫。</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.2问题的提出</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">以前只停留在线上，并没有在线上进行过销售，更没有实现企业事务电子商务化。基于.NET和.PHP的企业网站是好运来超市网站领导层根据当今信息时代企业发展的需求出发，对企业建设网站的必要性也是在进行了不断的探索和反复比较之后得出的结论。</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.3系统的总体目标</span></div><div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">在通过对国内企业级超市现状的比较的基础上，结合当前超市零售系统信息化过程中的现象和问题，对比找出其中的闪光点和不足之处。以.NET或.PHP网站开发思想，快速组建企业信息化系统网站。本网站不仅是要达到宣传企业，树立企业形象的目的，更重要的是扩大销售渠道，进而与潜在的客户建立商业联系，进一步提升销量。</span></div></div>
+#1 2.企业现状调研及问题分析
 ##2.1企业信息系统调查<br>
+随着互联网快速发展，企业信息管理应该趋向共享。传统的企业信息管理方式已经跟不上现在的脚步，所以目前超市迫切地需要建立一个网上信息管理系统。
 ##2.2问题分析<br>
 　结合前期的调查，可以看出随着超市的不断发展，虽然线下的销售量日渐攀升，但是仅仅依靠线下销售已经有疲软之势。建立一个网站平台实现企业正常销售及采购等业务的正常运转信息化势在必行。       
 ##2.3针对现状提出系统目标<br>  
@@ -12,16 +14,10 @@
  <li>性能目标</li> 
  </ul>
 ##2.4系统可行性分析  
-从技术实现性、实现费用、可操作性等三方面来分析网站建设的可行性。 
- 　1.技术可行性
-　企业目前没有实现在线网站的开发，但是已有的网络环境和技术实力完全实现超市网络信息系统的开发，在技术上不存在任何的瓶颈。 
- 　2.实现费用 
-　超市经过几年的发展已经积累了一定的经济实力，可以负担开发及后期维护的一系列费用。企业购置的一些硬件设备和软件设备使用周期长，只需一次支付费用便可长久使用，无需多次付费，可持续使用。 
-  3.可操作性
-　基于以上的思考，建立超市的网站的可操作性是显而易见的。
-
-#需求分析
-##1.获取需求
+<div>从技术实现性、实现费用、可操作性等三方面来分析网站建设的可行性。&nbsp;</div><div>1.技术可行性</div><div>企业目前没有实现在线网站的开发，但是已有的网络环境和技术实力完全实现超市网络信息系统的开发，在技术上不存在任何的瓶颈。&nbsp;</div><div>2.实现费用&nbsp;</div><div>超市经过几年的发展已经积累了一定的经济实力，可以负担开发及后期维护的一系列费用。企业购置的一些硬件设备和软件设备使用周期长，只需一次支付费用便可长久使用，无需多次付费，可持续使用。&nbsp;</div><div>3.可操作性</div><div>基于以上的思考，建立超市的网站的可操作性是显而易见的。</div>
+#1 3.系统分析
+##3.1需求分析
+3.1.1获取需求
  理解需求是在问题及其最终解决方案之间架设桥梁的第一步。开发者只有客户充分理解了需求之后才能开始设计系统，否则，对需求定义的改进，设计上都必须大量的返工。通过分析，用户的需求概括为以下几点：
 <ol>
 <li>超市管理系统分为下销售管理系统，库存管理系统，采购管理系统，后台管理系统。</li>
@@ -32,10 +28,10 @@
 <li>使用灵活性。开发系统要适合用户的需求，能很好满足超市进行采购、销售、库存的功能需求。与此同时，开发的超市管理系统要与企业外部的信息系统跨渠道连接，比如与银行、邮递、认证等系统连接。为了满足这些需求，要求开发的系统及开发的方法具有灵活性。</li>
 <li>简易可靠性。要求采用成熟先进的软件开发技术，提供高效的运行环境和开发工具，使用可重组技术，避免对系统复杂的基础结构的开发工作，减少冗余的重复性代码编写，能用比较容易掌握的技术，最少的投入和工作时间，开发出安全性好、使用可靠的系统。</li>
 </ol>
-#UML用例建模
-##1.确立参与者
- 
-
+3.1.2分析需求
+1.销售管理系统 该模块的作用是销售管理人员登录进行销售业务的管理，对该模块具有清点柜存商品、商品结算等功能。 2.采购管理系统 该模块的作用是采购管理人员进行采购业务的管理，对该模块具有缺货管理，订单管理，供应商管理等功能。 3.库存管理系统 该模块的作用是库存管理人员进行库存预警，商品信息录入等库存管理。 4.超级管理员 该模块的作用是超级管理员对所有的销售记录、采购记录、用户等查阅功能。
+## 3.2UML用例建模
+<div>需求分析的结果是想获得用例模型，当然还可能有其他种类的产品，如用户</div><div>界面原型。用例模型是一种包括用例、参与者以及它们之间关系的系统模型，用</div><div>例模型可以使软件开发人员和客户之间在需求（即系统必须满足的条件和能力）</div><div>方面达成共识。用例模型充当客户和开发人员之间勾通的桥梁，并作为分析、设</div><div>计和测试的基本输入。</div><div>1、确定参与者（actor）</div><div>用例模型描述了系统能为每种类型的用户做些什么。每种类型的用户表示为</div><div>一个或几个参与者。每个与该系统进行交互的外部系统也表示为一个或多个参与</div><div>者。因此，参与者表示系统外部与系统进行协作的参与者。只要确定了系统的所</div><div>有参与者，就确定了系统的外部环境。下表对其进行了描述。</div>
 <table>
  <tr>
   <td>参与者</td>
