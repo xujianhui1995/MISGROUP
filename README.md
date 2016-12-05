@@ -1,7 +1,7 @@
-<h1>1.绪论</h1>
+<h1>绪论</h1>
 ##1.1 系统开发背景
 <span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.1企业的现状</span><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">对好运来超市销售而言，现在正处于高速发展期，公司网站和信息系统的建设刻不容缓。在互联网时代，无论企业和个人都必须适应信息化发展的大趋势。超市在实体经济日益受到冲击的当前，销售量和销售利润的提升不能再仅仅局限在线下。在市场竞争日益激烈的当下，开发出一个能在线上销售商品的平台是十分必要和紧迫。</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.2问题的提出</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">以前只停留在线上，并没有在线上进行过销售，更没有实现企业事务电子商务化。基于.NET和.PHP的企业网站是好运来超市网站领导层根据当今信息时代企业发展的需求出发，对企业建设网站的必要性也是在进行了不断的探索和反复比较之后得出的结论。</span></div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">1.1.3系统的总体目标</span></div><div><div><span style="color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px; line-height: 24px;">在通过对国内企业级超市现状的比较的基础上，结合当前超市零售系统信息化过程中的现象和问题，对比找出其中的闪光点和不足之处。以.NET或.PHP网站开发思想，快速组建企业信息化系统网站。本网站不仅是要达到宣传企业，树立企业形象的目的，更重要的是扩大销售渠道，进而与潜在的客户建立商业联系，进一步提升销量。</span></div></div>
-<h1> 2.企业现状调研及问题分析</h1>
+<h1>企业现状调研及问题分析</h1>
 ##2.1企业信息系统调查<br>
 随着互联网快速发展，企业信息管理应该趋向共享。传统的企业信息管理方式已经跟不上现在的脚步，所以目前超市迫切地需要建立一个网上信息管理系统。
 ##2.2问题分析<br>
@@ -15,7 +15,7 @@
  </ul>
 ##2.4系统可行性分析  
 <div>从技术实现性、实现费用、可操作性等三方面来分析网站建设的可行性。&nbsp;</div><div>1.技术可行性</div><div>企业目前没有实现在线网站的开发，但是已有的网络环境和技术实力完全实现超市网络信息系统的开发，在技术上不存在任何的瓶颈。&nbsp;</div><div>2.实现费用&nbsp;</div><div>超市经过几年的发展已经积累了一定的经济实力，可以负担开发及后期维护的一系列费用。企业购置的一些硬件设备和软件设备使用周期长，只需一次支付费用便可长久使用，无需多次付费，可持续使用。&nbsp;</div><div>3.可操作性</div><div>基于以上的思考，建立超市的网站的可操作性是显而易见的。</div>
-<h1>3.系统分析</h1>
+<h1>系统分析</h1>
 ##3.1需求分析
 3.1.1获取需求<br>
  理解需求是在问题及其最终解决方案之间架设桥梁的第一步。开发者只有客户充分理解了需求之后才能开始设计系统，否则，对需求定义的改进，设计上都必须大量的返工。通过分析，用户的需求概括为以下几点：
